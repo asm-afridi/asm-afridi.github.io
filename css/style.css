@@ -31,6 +31,9 @@ ul{
     padding: 0 30px;
     opacity: 1;
 }
+.main-content{
+	padding: 270px;
+}
 .padd-15{
     padding-left: 15px;
     padding-right: 15px;
